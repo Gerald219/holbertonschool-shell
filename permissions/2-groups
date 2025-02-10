@@ -1,2 +1,2 @@
 #!/bin/bash
-less /etc/groups
+less /etc/group
