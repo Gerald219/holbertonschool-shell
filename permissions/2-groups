@@ -1,2 +1,2 @@
 #!/bin/bash
-less "geraldmulero" /etc/group
+getent group
