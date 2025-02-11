@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod ls -l hello
+chmod 731 hello
+ls -l hello
