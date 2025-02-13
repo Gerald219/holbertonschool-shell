@@ -1,2 +1,2 @@
 #!/bin/bash
-chowm : school hello
+sudo chowm : school hello
