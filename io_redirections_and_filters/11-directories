@@ -1,2 +1,2 @@
 #!/bin/bash
-find /home/geraldmulero/holbertonschool-shell/io_redirections_and_filters -mindepth 1 -type d | wc -l
+find /io_redirections_and_filters -mindepth 1 -type d | wc -l
